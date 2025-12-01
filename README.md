@@ -1,0 +1,30 @@
+# Personal Portfolio — Harshit Kumar
+
+This repository contains a simple personal portfolio website for Harshit Kumar. The site showcases an introduction, projects, skills, an about section, and a contact form.
+
+## Overview
+
+- **Author:** Harshit Kumar
+- **Course:** B.Tech CSE (AIML)
+- **Tech stack:** HTML, CSS, Font Awesome icons
+
+## Files
+
+- `index.html` — Main portfolio page (homepage)
+- `style1.css` — Styles used by the site
+- `assest/` — Images and other assets referenced by the site
+
+There is also a duplicate `PORTFOLIO/` folder which contains another copy of the project files.
+
+## Usage
+
+1. Open `index.html` in your browser to view the portfolio.
+2. To edit content, modify `index.html` and `style1.css`.
+
+## Contact
+
+- Email: harshitrajput13985@gmail.com
+- GitHub: https://github.com/Harshitrajput139
+
+---
+_Created from the project files in this repository._
